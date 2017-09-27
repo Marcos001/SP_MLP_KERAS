@@ -41,4 +41,7 @@ print('-'*30)
 
 
 #model = MLP('model_MLP_Keras.hdf5')
+#model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
+#out = model.predict(im)
+#print np.argmax(out)
 
